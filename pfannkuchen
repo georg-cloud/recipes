@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Recipe",
+  "name": "Pfannkuchen",
+  "recipeIngredient": [
+    "400 ml Milch",
+    "200 g Mehl",
+    "3 Eier"
+  ]
+}
